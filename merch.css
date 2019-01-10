@@ -70,6 +70,7 @@
 }
 .inventory{
 	overflow:auto;
+	margin-left:10%;
 }
 th{
 	width:300px;
